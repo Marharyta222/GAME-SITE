@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #2E8B57;
+    color: #8fd4dd;
     background-color: #FFFFFF;
 }
 
@@ -11,14 +11,14 @@ header {
     background-color: #F8F8FF;
     padding: 20px;
     text-align: center;
-    border-bottom: 4px solid #B0C4DE;
+    border-bottom: 4px solid #8596c5;
 }
 
 section {
     padding: 20px;
     margin: 20px;
     background-color: rgba(248, 248, 255, 0.3);
-    border: 4px solid #B0C4DE;
+    border: 4px solid #e7d361;
 }
 
 h1, h2, h3 {
@@ -35,7 +35,7 @@ ul {
 li {
     margin-bottom: 10px;
     padding: 10px;
-    border: 2px solid #B0C4DE;
+    border: 2px solid #e9bddf;
     background-color: rgba(176, 196, 222, 0.1);
 }
 
